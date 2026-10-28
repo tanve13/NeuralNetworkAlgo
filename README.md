@@ -1,1 +1,1 @@
-rbf+perceptron
+rbf+perceptron+backpropagation
